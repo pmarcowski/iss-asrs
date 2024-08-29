@@ -1,3 +1,5 @@
+![Preview](preview.png)
+
 # Cross-cultural validation in the International Sex Survey (ASRS)
 
 This repository contains the analysis code, output, and checkpoints for the cross-cultural adult ADHD assessment using the Adult ADHD Self-Report Scale (ASRS) Screener as part of the International Sex Survey (2021/2022). 
