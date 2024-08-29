@@ -1,0 +1,497 @@
+contrast,t,p,difference
+Australia - Austria,  8.51,< .001, 2.01
+Australia - Brazil,  1.40,0.183, 0.27
+Australia - Canada, -0.36,0.743,-0.07
+Australia - Chile,  3.05,0.003, 0.66
+Australia - China,  8.17,< .001, 1.60
+Australia - Colombia,  5.40,< .001, 1.09
+Australia - Croatia,  7.59,< .001, 1.50
+Australia - Czech Republic,  5.68,< .001, 1.16
+Australia - France,  2.38,0.022, 0.49
+Australia - Germany,  9.24,< .001, 1.76
+Australia - Hungary,  8.86,< .001, 1.59
+Australia - Ireland,  1.07,0.312, 0.22
+Australia - Israel,  9.72,< .001, 2.07
+Australia - Italy, 11.88,< .001, 2.36
+Australia - Lithuania,  9.07,< .001, 1.81
+Australia - Malaysia,  3.63,< .001, 0.78
+Australia - Mexico,  3.31,0.001, 0.66
+Australia - New Zealand, -0.46,0.669,-0.09
+Australia - North Macedonia, 12.26,< .001, 2.65
+Australia - Peru,  5.09,< .001, 0.99
+Australia - Poland,  8.41,< .001, 1.53
+Australia - Portugal,  4.88,< .001, 0.97
+Australia - Slovakia,  4.60,< .001, 1.01
+Australia - South Africa,  2.14,0.039, 0.43
+Australia - South Korea, 15.26,< .001, 3.20
+Australia - Spain,  8.14,< .001, 1.61
+Australia - Switzerland,  5.84,< .001, 1.27
+Australia - Taiwan, 10.88,< .001, 2.10
+Australia - Turkey,  3.80,< .001, 0.90
+Australia - United Kingdom,  1.83,0.079, 0.39
+Australia - United States of America, -0.67,0.532,-0.13
+Austria - Brazil, -9.95,< .001,-1.75
+Austria - Canada,-11.49,< .001,-2.08
+Austria - Chile, -6.67,< .001,-1.35
+Austria - China, -2.30,0.027,-0.42
+Austria - Colombia, -4.87,< .001,-0.92
+Austria - Croatia, -2.80,0.007,-0.51
+Austria - Czech Republic, -4.41,< .001,-0.85
+Austria - France, -7.98,< .001,-1.53
+Austria - Germany, -1.44,0.173,-0.25
+Austria - Hungary, -2.55,0.014,-0.42
+Austria - Ireland, -9.30,< .001,-1.79
+Austria - Israel,  0.29,0.783, 0.06
+Austria - Italy,  1.89,0.070, 0.35
+Austria - Lithuania, -1.05,0.320,-0.20
+Austria - Malaysia, -6.04,< .001,-1.23
+Austria - Mexico, -7.26,< .001,-1.35
+Austria - New Zealand,-11.73,< .001,-2.10
+Austria - North Macedonia,  3.13,0.002, 0.63
+Austria - Peru, -5.64,< .001,-1.02
+Austria - Poland, -2.91,0.005,-0.48
+Austria - Portugal, -5.66,< .001,-1.04
+Austria - Slovakia, -4.80,< .001,-1.00
+Austria - South Africa, -8.35,< .001,-1.58
+Austria - South Korea,  6.08,< .001, 1.19
+Austria - Spain, -2.17,0.037,-0.40
+Austria - Switzerland, -3.67,< .001,-0.75
+Austria - Taiwan,  0.50,0.645, 0.09
+Austria - Turkey, -4.92,< .001,-1.11
+Austria - United Kingdom, -8.23,< .001,-1.63
+Austria - United States of America,-11.72,< .001,-2.14
+Brazil - Canada, -2.94,0.004,-0.34
+Brazil - Chile,  2.67,0.010, 0.39
+Brazil - China, 11.61,< .001, 1.33
+Brazil - Colombia,  6.55,< .001, 0.83
+Brazil - Croatia, 10.41,< .001, 1.23
+Brazil - Czech Republic,  6.93,< .001, 0.90
+Brazil - France,  1.70,0.103, 0.22
+Brazil - Germany, 14.17,< .001, 1.49
+Brazil - Hungary, 15.68,< .001, 1.33
+Brazil - Ireland, -0.34,0.755,-0.04
+Brazil - Israel, 12.67,< .001, 1.80
+Brazil - Italy, 17.42,< .001, 2.09
+Brazil - Lithuania, 12.63,< .001, 1.55
+Brazil - Malaysia,  3.52,< .001, 0.52
+Brazil - Mexico,  3.24,0.002, 0.40
+Brazil - New Zealand, -3.20,0.002,-0.35
+Brazil - North Macedonia, 16.23,< .001, 2.38
+Brazil - Peru,  6.38,< .001, 0.73
+Brazil - Poland, 14.03,< .001, 1.26
+Brazil - Portugal,  5.86,< .001, 0.70
+Brazil - Slovakia,  4.87,< .001, 0.75
+Brazil - South Africa,  1.33,0.206, 0.17
+Brazil - South Korea, 21.31,< .001, 2.94
+Brazil - Spain, 11.29,< .001, 1.35
+Brazil - Switzerland,  6.76,< .001, 1.00
+Brazil - Taiwan, 16.60,< .001, 1.84
+Brazil - Turkey,  3.60,< .001, 0.64
+Brazil - United Kingdom,  0.86,0.419, 0.12
+Brazil - United States of America, -3.39,0.001,-0.40
+Canada - Chile,  4.74,< .001, 0.73
+Canada - China, 13.59,< .001, 1.67
+Canada - Colombia,  8.71,< .001, 1.16
+Canada - Croatia, 12.44,< .001, 1.57
+Canada - Czech Republic,  8.89,< .001, 1.23
+Canada - France,  4.05,< .001, 0.56
+Canada - Germany, 15.79,< .001, 1.83
+Canada - Hungary, 17.17,< .001, 1.66
+Canada - Ireland,  2.09,0.045, 0.29
+Canada - Israel, 14.28,< .001, 2.14
+Canada - Italy, 19.04,< .001, 2.43
+Canada - Lithuania, 14.42,< .001, 1.89
+Canada - Malaysia,  5.56,< .001, 0.85
+Canada - Mexico,  5.64,< .001, 0.73
+Canada - New Zealand, -0.16,0.884,-0.02
+Canada - North Macedonia, 17.72,< .001, 2.72
+Canada - Peru,  8.67,< .001, 1.06
+Canada - Poland, 16.08,< .001, 1.60
+Canada - Portugal,  8.14,< .001, 1.04
+Canada - Slovakia,  6.79,< .001, 1.08
+Canada - South Africa,  3.75,< .001, 0.50
+Canada - South Korea, 22.67,< .001, 3.27
+Canada - Spain, 13.29,< .001, 1.68
+Canada - Switzerland,  8.66,< .001, 1.34
+Canada - Taiwan, 18.17,< .001, 2.17
+Canada - Turkey,  5.34,< .001, 0.97
+Canada - United Kingdom,  3.12,0.003, 0.46
+Canada - United States of America, -0.49,0.649,-0.06
+Chile - China,  6.15,< .001, 0.94
+Chile - Colombia,  2.70,0.009, 0.44
+Chile - Croatia,  5.40,< .001, 0.84
+Chile - Czech Republic,  3.01,0.003, 0.50
+Chile - France, -1.04,0.325,-0.17
+Chile - Germany,  7.40,< .001, 1.10
+Chile - Hungary,  7.01,< .001, 0.93
+Chile - Ireland, -2.62,0.011,-0.44
+Chile - Israel,  8.02,< .001, 1.41
+Chile - Italy, 10.85,< .001, 1.70
+Chile - Lithuania,  7.24,< .001, 1.16
+Chile - Malaysia,  0.71,0.511, 0.13
+Chile - Mexico,  0.02,0.982, 0.00
+Chile - New Zealand, -4.94,< .001,-0.75
+Chile - North Macedonia, 11.16,< .001, 1.99
+Chile - Peru,  2.19,0.036, 0.33
+Chile - Poland,  6.45,< .001, 0.87
+Chile - Portugal,  1.97,0.059, 0.31
+Chile - Slovakia,  1.94,0.063, 0.36
+Chile - South Africa, -1.38,0.190,-0.22
+Chile - South Korea, 14.94,< .001, 2.54
+Chile - Spain,  6.14,< .001, 0.95
+Chile - Switzerland,  3.39,< .001, 0.61
+Chile - Taiwan,  9.62,< .001, 1.44
+Chile - Turkey,  1.20,0.255, 0.24
+Chile - United Kingdom, -1.58,0.132,-0.27
+Chile - United States of America, -5.09,< .001,-0.79
+China - Colombia, -3.80,< .001,-0.50
+China - Croatia, -0.78,0.469,-0.10
+China - Czech Republic, -3.10,0.003,-0.43
+China - France, -8.12,< .001,-1.11
+China - Germany,  1.40,0.185, 0.16
+China - Hungary, -0.03,0.980, 0.00
+China - Ireland, -9.89,< .001,-1.37
+China - Israel,  3.17,0.002, 0.47
+China - Italy,  6.04,< .001, 0.76
+China - Lithuania,  1.68,0.107, 0.22
+China - Malaysia, -5.32,< .001,-0.81
+China - Mexico, -7.22,< .001,-0.93
+China - New Zealand,-14.06,< .001,-1.68
+China - North Macedonia,  6.89,< .001, 1.05
+China - Peru, -4.96,< .001,-0.60
+China - Poland, -0.69,0.524,-0.07
+China - Portugal, -4.94,< .001,-0.63
+China - Slovakia, -3.67,< .001,-0.58
+China - South Africa, -8.70,< .001,-1.16
+China - South Korea, 11.23,< .001, 1.61
+China - Spain,  0.14,0.895, 0.02
+China - Switzerland, -2.15,0.038,-0.33
+China - Taiwan,  4.27,< .001, 0.51
+China - Turkey, -3.82,< .001,-0.69
+China - United Kingdom, -8.29,< .001,-1.21
+China - United States of America,-13.84,< .001,-1.73
+Colombia - Croatia,  2.99,0.004, 0.40
+Colombia - Czech Republic,  0.46,0.669, 0.07
+Colombia - France, -4.15,< .001,-0.61
+Colombia - Germany,  5.19,< .001, 0.66
+Colombia - Hungary,  4.55,< .001, 0.50
+Colombia - Ireland, -5.87,< .001,-0.87
+Colombia - Israel,  6.15,< .001, 0.98
+Colombia - Italy,  9.26,< .001, 1.26
+Colombia - Lithuania,  5.13,< .001, 0.72
+Colombia - Malaysia, -1.92,0.066,-0.31
+Colombia - Mexico, -3.10,0.003,-0.43
+Colombia - New Zealand, -9.02,< .001,-1.18
+Colombia - North Macedonia,  9.64,< .001, 1.55
+Colombia - Peru, -0.77,0.473,-0.10
+Colombia - Poland,  3.92,< .001, 0.43
+Colombia - Portugal, -0.92,0.390,-0.13
+Colombia - Slovakia, -0.48,0.659,-0.08
+Colombia - South Africa, -4.60,< .001,-0.66
+Colombia - South Korea, 13.86,< .001, 2.11
+Colombia - Spain,  3.83,< .001, 0.52
+Colombia - Switzerland,  1.06,0.319, 0.17
+Colombia - Taiwan,  7.78,< .001, 1.01
+Colombia - Turkey, -1.01,0.338,-0.19
+Colombia - United Kingdom, -4.57,< .001,-0.71
+Colombia - United States of America, -9.04,< .001,-1.23
+Croatia - Czech Republic, -2.36,0.023,-0.34
+Croatia - France, -7.24,< .001,-1.01
+Croatia - Germany,  2.17,0.037, 0.26
+Croatia - Hungary,  0.94,0.378, 0.09
+Croatia - Ireland, -9.00,< .001,-1.28
+Croatia - Israel,  3.75,< .001, 0.57
+Croatia - Italy,  6.65,< .001, 0.86
+Croatia - Lithuania,  2.38,0.022, 0.32
+Croatia - Malaysia, -4.59,< .001,-0.71
+Croatia - Mexico, -6.32,< .001,-0.84
+Croatia - New Zealand,-12.87,< .001,-1.59
+Croatia - North Macedonia,  7.39,< .001, 1.15
+Croatia - Peru, -4.04,< .001,-0.51
+Croatia - Poland,  0.29,0.783, 0.03
+Croatia - Portugal, -4.09,< .001,-0.53
+Croatia - Slovakia, -3.00,0.004,-0.48
+Croatia - South Africa, -7.78,< .001,-1.06
+Croatia - South Korea, 11.67,< .001, 1.70
+Croatia - Spain,  0.89,0.403, 0.11
+Croatia - Switzerland, -1.49,0.156,-0.23
+Croatia - Taiwan,  4.94,< .001, 0.60
+Croatia - Turkey, -3.24,0.002,-0.60
+Croatia - United Kingdom, -7.48,< .001,-1.11
+Croatia - United States of America,-12.70,< .001,-1.63
+Czech Republic - France, -4.46,< .001,-0.68
+Czech Republic - Germany,  4.55,< .001, 0.60
+Czech Republic - Hungary,  3.72,< .001, 0.43
+Czech Republic - Ireland, -6.13,< .001,-0.94
+Czech Republic - Israel,  5.59,< .001, 0.91
+Czech Republic - Italy,  8.32,< .001, 1.20
+Czech Republic - Lithuania,  4.48,< .001, 0.65
+Czech Republic - Malaysia, -2.26,0.030,-0.38
+Czech Republic - Mexico, -3.45,< .001,-0.50
+Czech Republic - New Zealand, -9.23,< .001,-1.25
+Czech Republic - North Macedonia,  8.89,< .001, 1.48
+Czech Republic - Peru, -1.23,0.244,-0.17
+Czech Republic - Poland,  3.06,0.003, 0.37
+Czech Republic - Portugal, -1.36,0.197,-0.19
+Czech Republic - Slovakia, -0.86,0.420,-0.15
+Czech Republic - South Africa, -4.87,< .001,-0.73
+Czech Republic - South Korea, 12.81,< .001, 2.04
+Czech Republic - Spain,  3.13,0.002, 0.45
+Czech Republic - Switzerland,  0.61,0.570, 0.10
+Czech Republic - Taiwan,  6.89,< .001, 0.94
+Czech Republic - Turkey, -1.34,0.201,-0.26
+Czech Republic - United Kingdom, -4.86,< .001,-0.78
+Czech Republic - United States of America, -9.14,< .001,-1.30
+France - Germany,  9.70,< .001, 1.27
+France - Hungary,  9.68,< .001, 1.11
+France - Ireland, -1.74,0.095,-0.27
+France - Israel,  9.79,< .001, 1.58
+France - Italy, 13.27,< .001, 1.87
+France - Lithuania,  9.22,< .001, 1.33
+France - Malaysia,  1.81,0.083, 0.30
+France - Mexico,  1.22,0.245, 0.18
+France - New Zealand, -4.27,< .001,-0.58
+France - North Macedonia, 13.11,< .001, 2.16
+France - Peru,  3.70,< .001, 0.51
+France - Poland,  8.96,< .001, 1.04
+France - Portugal,  3.41,< .001, 0.48
+France - Slovakia,  3.09,0.003, 0.53
+France - South Africa, -0.35,0.744,-0.05
+France - South Korea, 17.37,< .001, 2.72
+France - Spain,  8.04,< .001, 1.13
+France - Switzerland,  4.70,< .001, 0.78
+France - Taiwan, 12.06,< .001, 1.61
+France - Turkey,  2.17,0.037, 0.42
+France - United Kingdom, -0.64,0.555,-0.10
+France - United States of America, -4.43,< .001,-0.62
+Germany - Hungary, -1.89,0.070,-0.16
+Germany - Ireland,-11.54,< .001,-1.54
+Germany - Israel,  2.18,0.037, 0.31
+Germany - Italy,  4.96,< .001, 0.60
+Germany - Lithuania,  0.46,0.669, 0.06
+Germany - Malaysia, -6.54,< .001,-0.97
+Germany - Mexico, -8.89,< .001,-1.10
+Germany - New Zealand,-16.45,< .001,-1.85
+Germany - North Macedonia,  6.00,< .001, 0.89
+Germany - Peru, -6.62,< .001,-0.77
+Germany - Poland, -2.52,0.015,-0.23
+Germany - Portugal, -6.53,< .001,-0.79
+Germany - Slovakia, -4.81,< .001,-0.74
+Germany - South Africa,-10.32,< .001,-1.32
+Germany - South Korea, 10.39,< .001, 1.44
+Germany - Spain, -1.20,0.255,-0.15
+Germany - Switzerland, -3.31,0.001,-0.49
+Germany - Taiwan,  3.05,0.003, 0.34
+Germany - Turkey, -4.81,< .001,-0.86
+Germany - United Kingdom, -9.78,< .001,-1.37
+Germany - United States of America,-15.89,< .001,-1.89
+Hungary - Ireland,-11.73,< .001,-1.37
+Hungary - Israel,  3.70,< .001, 0.48
+Hungary - Italy,  7.46,< .001, 0.77
+Hungary - Lithuania,  2.09,0.045, 0.22
+Hungary - Malaysia, -6.05,< .001,-0.81
+Hungary - Mexico, -8.82,< .001,-0.93
+Hungary - New Zealand,-18.11,< .001,-1.68
+Hungary - North Macedonia,  7.92,< .001, 1.05
+Hungary - Peru, -6.27,< .001,-0.60
+Hungary - Poland, -1.00,0.346,-0.06
+Hungary - Portugal, -6.07,< .001,-0.62
+Hungary - Slovakia, -4.13,< .001,-0.58
+Hungary - South Africa,-10.46,< .001,-1.16
+Hungary - South Korea, 13.12,< .001, 1.61
+Hungary - Spain,  0.20,0.855, 0.02
+Hungary - Switzerland, -2.44,0.019,-0.33
+Hungary - Taiwan,  5.54,< .001, 0.51
+Hungary - Turkey, -4.17,< .001,-0.69
+Hungary - United Kingdom, -9.65,< .001,-1.21
+Hungary - United States of America,-17.23,< .001,-1.73
+Ireland - Israel, 11.31,< .001, 1.85
+Ireland - Italy, 14.93,< .001, 2.14
+Ireland - Lithuania, 10.90,< .001, 1.59
+Ireland - Malaysia,  3.37,0.001, 0.56
+Ireland - Mexico,  3.03,0.003, 0.44
+Ireland - New Zealand, -2.27,0.029,-0.31
+Ireland - North Macedonia, 14.56,< .001, 2.42
+Ireland - Peru,  5.55,< .001, 0.77
+Ireland - Poland, 11.00,< .001, 1.31
+Ireland - Portugal,  5.21,< .001, 0.75
+Ireland - Slovakia,  4.60,< .001, 0.79
+Ireland - South Africa,  1.42,0.176, 0.21
+Ireland - South Korea, 18.83,< .001, 2.98
+Ireland - Spain,  9.77,< .001, 1.39
+Ireland - Switzerland,  6.24,< .001, 1.04
+Ireland - Taiwan, 13.80,< .001, 1.88
+Ireland - Turkey,  3.52,< .001, 0.68
+Ireland - United Kingdom,  1.03,0.334, 0.16
+Ireland - United States of America, -2.49,0.016,-0.35
+Israel - Italy,  1.88,0.071, 0.29
+Israel - Lithuania, -1.64,0.118,-0.26
+Israel - Malaysia, -7.30,< .001,-1.29
+Israel - Mexico, -9.06,< .001,-1.41
+Israel - New Zealand,-14.66,< .001,-2.16
+Israel - North Macedonia,  3.28,0.001, 0.57
+Israel - Peru, -7.21,< .001,-1.08
+Israel - Poland, -4.13,< .001,-0.54
+Israel - Portugal, -7.18,< .001,-1.10
+Israel - Slovakia, -5.83,< .001,-1.06
+Israel - South Africa,-10.26,< .001,-1.64
+Israel - South Korea,  6.74,< .001, 1.13
+Israel - Spain, -2.99,0.004,-0.46
+Israel - Switzerland, -4.56,< .001,-0.80
+Israel - Taiwan,  0.21,0.845, 0.03
+Israel - Turkey, -5.80,< .001,-1.17
+Israel - United Kingdom, -9.94,< .001,-1.68
+Israel - United States of America,-14.48,< .001,-2.20
+Italy - Lithuania, -4.04,< .001,-0.54
+Italy - Malaysia,-10.05,< .001,-1.57
+Italy - Mexico,-12.69,< .001,-1.70
+Italy - New Zealand,-19.59,< .001,-2.45
+Italy - North Macedonia,  1.83,0.079, 0.29
+Italy - Peru,-10.78,< .001,-1.37
+Italy - Poland, -8.05,< .001,-0.83
+Italy - Portugal,-10.61,< .001,-1.39
+Italy - Slovakia, -8.28,< .001,-1.34
+Italy - South Africa,-13.93,< .001,-1.92
+Italy - South Korea,  5.73,< .001, 0.84
+Italy - Spain, -5.75,< .001,-0.75
+Italy - Switzerland, -6.96,< .001,-1.09
+Italy - Taiwan, -2.09,0.045,-0.26
+Italy - Turkey, -7.88,< .001,-1.46
+Italy - United Kingdom,-13.16,< .001,-1.97
+Italy - United States of America,-19.18,< .001,-2.49
+Lithuania - Malaysia, -6.45,< .001,-1.03
+Lithuania - Mexico, -8.41,< .001,-1.15
+Lithuania - New Zealand,-14.88,< .001,-1.90
+Lithuania - North Macedonia,  5.21,< .001, 0.83
+Lithuania - Peru, -6.32,< .001,-0.82
+Lithuania - Poland, -2.65,0.011,-0.29
+Lithuania - Portugal, -6.29,< .001,-0.85
+Lithuania - Slovakia, -4.84,< .001,-0.80
+Lithuania - South Africa, -9.76,< .001,-1.38
+Lithuania - South Korea,  9.21,< .001, 1.39
+Lithuania - Spain, -1.51,0.151,-0.20
+Lithuania - Switzerland, -3.43,< .001,-0.55
+Lithuania - Taiwan,  2.25,0.031, 0.29
+Lithuania - Turkey, -4.87,< .001,-0.91
+Lithuania - United Kingdom, -9.36,< .001,-1.43
+Lithuania - United States of America,-14.62,< .001,-1.95
+Malaysia - Mexico, -0.77,0.472,-0.12
+Malaysia - New Zealand, -5.76,< .001,-0.87
+Malaysia - North Macedonia, 10.45,< .001, 1.86
+Malaysia - Peru,  1.36,0.196, 0.21
+Malaysia - Poland,  5.53,< .001, 0.74
+Malaysia - Portugal,  1.17,0.267, 0.18
+Malaysia - Slovakia,  1.25,0.236, 0.23
+Malaysia - South Africa, -2.15,0.038,-0.35
+Malaysia - South Korea, 14.20,< .001, 2.42
+Malaysia - Spain,  5.33,< .001, 0.83
+Malaysia - Switzerland,  2.69,0.009, 0.48
+Malaysia - Taiwan,  8.77,< .001, 1.32
+Malaysia - Turkey,  0.58,0.592, 0.12
+Malaysia - United Kingdom, -2.31,0.027,-0.40
+Malaysia - United States of America, -5.90,< .001,-0.92
+Mexico - New Zealand, -5.91,< .001,-0.75
+Mexico - North Macedonia, 12.51,< .001, 1.98
+Mexico - Peru,  2.55,0.014, 0.33
+Mexico - Poland,  8.10,< .001, 0.87
+Mexico - Portugal,  2.29,0.028, 0.31
+Mexico - Slovakia,  2.14,0.040, 0.35
+Mexico - South Africa, -1.62,0.122,-0.23
+Mexico - South Korea, 16.95,< .001, 2.54
+Mexico - Spain,  7.16,< .001, 0.95
+Mexico - Switzerland,  3.79,< .001, 0.60
+Mexico - Taiwan, 11.39,< .001, 1.44
+Mexico - Turkey,  1.29,0.222, 0.24
+Mexico - United Kingdom, -1.82,0.081,-0.28
+Mexico - United States of America, -6.00,< .001,-0.79
+New Zealand - North Macedonia, 18.11,< .001, 2.73
+New Zealand - Peru,  9.04,< .001, 1.08
+New Zealand - Poland, 16.83,< .001, 1.62
+New Zealand - Portugal,  8.46,< .001, 1.06
+New Zealand - Slovakia,  7.00,< .001, 1.10
+New Zealand - South Africa,  3.97,< .001, 0.52
+New Zealand - South Korea, 23.17,< .001, 3.29
+New Zealand - Spain, 13.71,< .001, 1.70
+New Zealand - Switzerland,  8.91,< .001, 1.35
+New Zealand - Taiwan, 18.80,< .001, 2.19
+New Zealand - Turkey,  5.50,< .001, 0.99
+New Zealand - United Kingdom,  3.30,0.001, 0.47
+New Zealand - United States of America, -0.35,0.744,-0.04
+North Macedonia - Peru,-10.85,< .001,-1.65
+North Macedonia - Poland, -8.32,< .001,-1.12
+North Macedonia - Portugal,-10.71,< .001,-1.68
+North Macedonia - Slovakia, -8.90,< .001,-1.63
+North Macedonia - South Africa,-13.64,< .001,-2.21
+North Macedonia - South Korea,  3.28,0.001, 0.56
+North Macedonia - Spain, -6.65,< .001,-1.03
+North Macedonia - Switzerland, -7.72,< .001,-1.38
+North Macedonia - Taiwan, -3.63,< .001,-0.54
+North Macedonia - Turkey, -8.57,< .001,-1.74
+North Macedonia - United Kingdom,-13.11,< .001,-2.26
+North Macedonia - United States of America,-17.91,< .001,-2.78
+Peru - Poland,  5.45,< .001, 0.54
+Peru - Portugal, -0.19,0.859,-0.02
+Peru - Slovakia,  0.14,0.895, 0.02
+Peru - South Africa, -4.17,< .001,-0.56
+Peru - South Korea, 15.41,< .001, 2.21
+Peru - Spain,  4.94,< .001, 0.62
+Peru - Switzerland,  1.78,0.088, 0.27
+Peru - Taiwan,  9.36,< .001, 1.11
+Peru - Turkey, -0.50,0.649,-0.09
+Peru - United Kingdom, -4.16,< .001,-0.61
+Peru - United States of America, -8.99,< .001,-1.12
+Poland - Portugal, -5.41,< .001,-0.56
+Poland - Slovakia, -3.63,< .001,-0.51
+Poland - South Africa, -9.71,< .001,-1.09
+Poland - South Korea, 13.56,< .001, 1.67
+Poland - Spain,  0.83,0.438, 0.08
+Poland - Switzerland, -1.94,0.062,-0.26
+Poland - Taiwan,  6.07,< .001, 0.57
+Poland - Turkey, -3.75,< .001,-0.63
+Poland - United Kingdom, -9.01,< .001,-1.14
+Poland - United States of America,-16.22,< .001,-1.66
+Portugal - Slovakia,  0.28,0.792, 0.05
+Portugal - South Africa, -3.86,< .001,-0.53
+Portugal - South Korea, 15.13,< .001, 2.23
+Portugal - Spain,  4.95,< .001, 0.64
+Portugal - Switzerland,  1.89,0.070, 0.30
+Portugal - Taiwan,  9.14,< .001, 1.13
+Portugal - Turkey, -0.36,0.744,-0.07
+Portugal - United Kingdom, -3.89,< .001,-0.58
+Portugal - United States of America, -8.46,< .001,-1.10
+Slovakia - South Africa, -3.45,< .001,-0.58
+Slovakia - South Korea, 12.45,< .001, 2.19
+Slovakia - Spain,  3.71,< .001, 0.60
+Slovakia - Switzerland,  1.36,0.195, 0.25
+Slovakia - Taiwan,  6.96,< .001, 1.09
+Slovakia - Turkey, -0.54,0.622,-0.11
+Slovakia - United Kingdom, -3.53,< .001,-0.63
+Slovakia - United States of America, -7.10,< .001,-1.15
+South Africa - South Korea, 18.02,< .001, 2.77
+South Africa - Spain,  8.60,< .001, 1.18
+South Africa - Switzerland,  5.10,< .001, 0.83
+South Africa - Taiwan, 12.75,< .001, 1.67
+South Africa - Turkey,  2.47,0.017, 0.47
+South Africa - United Kingdom, -0.31,0.772,-0.05
+South Africa - United States of America, -4.15,< .001,-0.57
+South Korea - Spain,-10.89,< .001,-1.59
+South Korea - Switzerland,-11.33,< .001,-1.94
+South Korea - Taiwan, -7.84,< .001,-1.10
+South Korea - Turkey,-11.70,< .001,-2.30
+South Korea - United Kingdom,-17.12,< .001,-2.82
+South Korea - United States of America,-22.81,< .001,-3.33
+Spain - Switzerland, -2.22,0.033,-0.35
+Spain - Taiwan,  4.00,< .001, 0.49
+Spain - Turkey, -3.86,< .001,-0.71
+Spain - United Kingdom, -8.23,< .001,-1.23
+Spain - United States of America,-13.56,< .001,-1.75
+Switzerland - Taiwan,  5.54,< .001, 0.84
+Switzerland - Turkey, -1.78,0.088,-0.36
+Switzerland - United Kingdom, -5.08,< .001,-0.88
+Switzerland - United States of America, -8.95,< .001,-1.40
+Taiwan - Turkey, -6.68,< .001,-1.20
+Taiwan - United Kingdom,-11.97,< .001,-1.72
+Taiwan - United States of America,-18.32,< .001,-2.23
+Turkey - United Kingdom, -2.60,0.012,-0.52
+Turkey - United States of America, -5.63,< .001,-1.03
+United Kingdom - United States of America, -3.49,< .001,-0.52

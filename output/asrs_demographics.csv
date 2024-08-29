@@ -1,0 +1,191 @@
+var,x,n,perc
+country,Algeria,    19, 0.03
+country,Australia,   565, 0.78
+country,Austria,   684, 0.94
+country,Bangladesh,   254, 0.35
+country,Belgium,   584, 0.80
+country,Bolivia,   325, 0.45
+country,Brazil," 3,222", 4.44
+country,Canada," 2,278", 3.14
+country,Chile," 1,083", 1.49
+country,China," 2,339", 3.22
+country,Colombia," 1,707", 2.35
+country,Croatia," 2,096", 2.89
+country,Czech Republic," 1,518", 2.09
+country,Ecuador,   235, 0.32
+country,France," 1,526", 2.10
+country,Germany," 3,015", 4.15
+country,Gibraltar,    44, 0.06
+country,Hungary," 9,887",13.61
+country,India,   147, 0.20
+country,Iraq,    83, 0.11
+country,Ireland," 1,449", 2.00
+country,Israel," 1,164", 1.60
+country,Italy," 2,015", 2.77
+country,Japan,   493, 0.68
+country,Lithuania," 1,813", 2.50
+country,Malaysia," 1,082", 1.49
+country,Mexico," 1,854", 2.55
+country,New Zealand," 2,524", 3.48
+country,North Macedonia," 1,089", 1.50
+country,Other,   987, 1.36
+country,Panama,   282, 0.39
+country,Peru," 2,321", 3.20
+country,Poland," 8,231",11.33
+country,Portugal," 1,997", 2.75
+country,Slovakia,   967, 1.33
+country,South Africa," 1,644", 2.26
+country,South Korea," 1,318", 1.81
+country,Spain," 2,091", 2.88
+country,Switzerland," 1,068", 1.47
+country,Taiwan," 2,604", 3.59
+country,Turkey,   674, 0.93
+country,United Kingdom," 1,245", 1.71
+country,United States of America," 2,104", 2.90
+language,Arabic,   120, 0.17
+language,Bangla,   227, 0.31
+language,Croatian," 2,211", 3.04
+language,Czech," 1,472", 2.03
+language,Dutch,   467, 0.64
+language,English,"12,258",16.88
+language,French," 3,587", 4.94
+language,German," 3,238", 4.46
+language,Hebrew," 1,145", 1.58
+language,Hindi,    12, 0.02
+language,Hungarian," 9,681",13.33
+language,Italian," 2,043", 2.81
+language,Japanese,   406, 0.56
+language,Korean," 1,293", 1.78
+language,Lithuanian," 1,888", 2.60
+language,Macedonian," 1,134", 1.56
+language,Mandarin - Simplified," 2,385", 3.28
+language,Mandarin - Traditional," 2,618", 3.60
+language,Polish," 8,623",11.87
+language,Portuguese - Brazil," 3,289", 4.53
+language,Portuguese - Portugal," 2,002", 2.76
+language,Romanian,    64, 0.09
+language,Slovakian," 1,835", 2.53
+language,Spanish - Latin America," 7,844",10.80
+language,Spanish - Spain," 2,079", 2.86
+language,Turkish,   706, 0.97
+sex_birth,Male,"29,477",40.59
+sex_birth,Female,"43,150",59.41
+gender,Woman,"41,360",56.95
+gender,Man,"28,877",39.76
+gender,Gender diverse individual," 2,390", 3.29
+Age,18," 1,876", 2.58
+Age,19," 2,761", 3.80
+Age,20," 3,671", 5.05
+Age,21," 4,057", 5.59
+Age,22," 3,952", 5.44
+Age,23," 3,752", 5.17
+Age,24," 3,396", 4.68
+Age,25," 3,312", 4.56
+Age,26," 2,825", 3.89
+Age,27," 2,693", 3.71
+Age,28," 2,707", 3.73
+Age,29," 2,220", 3.06
+Age,30," 2,401", 3.31
+Age,31," 1,932", 2.66
+Age,32," 2,003", 2.76
+Age,33," 1,796", 2.47
+Age,34," 1,607", 2.21
+Age,35," 1,685", 2.32
+Age,36," 1,449", 2.00
+Age,37," 1,329", 1.83
+Age,38," 1,395", 1.92
+Age,39," 1,205", 1.66
+Age,40," 1,333", 1.84
+Age,41," 1,129", 1.55
+Age,42," 1,128", 1.55
+Age,43," 1,108", 1.53
+Age,44,   992, 1.37
+Age,45," 1,061", 1.46
+Age,46,   916, 1.26
+Age,47,   876, 1.21
+Age,48,   722, 0.99
+Age,49,   717, 0.99
+Age,50,   822, 1.13
+Age,51,   588, 0.81
+Age,52,   613, 0.84
+Age,53,   517, 0.71
+Age,54,   567, 0.78
+Age,55,   486, 0.67
+Age,56,   466, 0.64
+Age,57,   432, 0.59
+Age,58,   456, 0.63
+Age,59,   314, 0.43
+Age,60,   395, 0.54
+Age,61,   303, 0.42
+Age,62,   265, 0.36
+Age,63,   223, 0.31
+Age,64,   240, 0.33
+Age,65,   285, 0.39
+Age,66,   211, 0.29
+Age,67,   242, 0.33
+Age,68,   180, 0.25
+Age,69,   171, 0.24
+Age,70,   177, 0.24
+Age,71,    97, 0.13
+Age,72,    96, 0.13
+Age,73,    84, 0.12
+Age,74,    85, 0.12
+Age,75,    78, 0.11
+Age,76,    40, 0.06
+Age,77,    39, 0.05
+Age,78,    30, 0.04
+Age,79,    21, 0.03
+Age,80,    29, 0.04
+Age,81,    15, 0.02
+Age,82,    15, 0.02
+Age,83,    11, 0.02
+Age,84,     7, 0.01
+Age,85,     5, 0.01
+Age,86,     7, 0.01
+Age,87,     2, 0.00
+Age,89,     3, 0.00
+Age,90,     1, 0.00
+Age,91,     1, 0.00
+Age,97,     1, 0.00
+Age,99,     1, 0.00
+sexual_orientation,Heterosexual,"50,098",68.98
+sexual_orientation,Homosexual," 4,110", 5.66
+sexual_orientation,Bi+," 9,152",12.60
+sexual_orientation,Homo- and heteroflexible identities," 5,942", 8.18
+sexual_orientation,Asexual,   953, 1.31
+sexual_orientation,Questioning or other," 2,372", 3.27
+education,"Primary (e.g., elementary school)",   437, 0.60
+education,"Secondary (e.g., high school)","17,166",23.64
+education,"Tertiary (e.g., college or university)","55,024",75.76
+study,"Yes, in primary education (e.g., elementary school)",    53, 0.07
+study,"Yes, in secondary education (e.g., high school)",     0, 0.00
+study,"Yes, in tertiary education (e.g., college or university)","27,441",37.78
+study,No,"45,133",62.14
+work,"Yes, full time","38,651",53.22
+work,"Yes, part-time","10,038",13.82
+work,"Yes, I do odd jobs"," 6,057", 8.34
+work,No,"17,881",24.62
+socioeconomic_status,1,   185, 0.25
+socioeconomic_status,2,   652, 0.90
+socioeconomic_status,3," 3,724", 5.13
+socioeconomic_status,4,"23,515",32.38
+socioeconomic_status,5,"27,975",38.52
+socioeconomic_status,6,"13,062",17.99
+socioeconomic_status,7," 3,514", 4.84
+residence,Metropolis (population is over 1 million people),"23,751",32.70
+residence,"City (population is between 100,000-999,999 people)","26,529",36.53
+residence,"Town (population is between 1,000-99,999 people)","18,315",25.22
+residence,"Village (population is below 1,000 people)"," 4,032", 5.55
+relationship_status,Married or common-law partners,"22,000",30.29
+relationship_status,In a relationship,"23,884",32.89
+relationship_status,Widow or widower,   393, 0.54
+relationship_status,Divorced," 2,272", 3.13
+relationship_status,Single,"24,078",33.15
+children,"Yes, 1"," 7,589",10.45
+children,"Yes, 2"," 9,412",12.96
+children,"Yes, 3"," 3,498", 4.82
+children,"Yes, 4",   938, 1.29
+children,"Yes, 5",   264, 0.36
+children,"Yes, 6-9",   116, 0.16
+children,"Yes, 10 or more",    15, 0.02
+children,No,"50,795",69.94
